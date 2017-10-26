@@ -1,6 +1,6 @@
-## Posicionamiento de cajas
+## Proyecto: Positioning.
 
-### Programa: Posicionando cajas
+### Programa: Posicionando cajas.
 
 **Descripción del trabajo:**
 * Aplicar lo aprendido utilizando position.
